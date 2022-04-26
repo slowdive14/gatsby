@@ -4,12 +4,12 @@ module.exports = {
       resolve: `gatsby-theme-garden`,
       options: {
         contentPath: `${__dirname}/src/site/notes`,
-        rootNote: `/home`,
+        rootNote: `/Digital Garden of 잔향`,
       },
     },
     `gatsby-plugin-netlify`
   ],
   siteMetadata: {
-    title: process.env.잔향,
+    title: 잔향,
   },
 }
