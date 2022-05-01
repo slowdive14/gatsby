@@ -10,6 +10,6 @@ module.exports = {
     `gatsby-plugin-netlify`
   ],
   siteMetadata: {
-    title: 잔향,
+    title: "잔향",
   },
 }
